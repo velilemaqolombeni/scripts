@@ -1,0 +1,4 @@
+bind-addr: 127.0.0.1:7070
+auth: password
+password: Gnikbaas999
+cert: false
